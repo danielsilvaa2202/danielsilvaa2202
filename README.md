@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Daniel+Alves+Silva" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Daniel alt="Typing SVG" /></a>
   <h2 align="center" style="font-size:1.6rem; margin:0.8rem 0;">Desenvolvedor Python 🐍 | Automação • APIs • UI • KPIs</h2>
  
 
